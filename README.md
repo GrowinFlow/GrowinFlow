@@ -1,5 +1,5 @@
 
-<div style="text-align: center;">
+<div style="text-align: center; display: flex; flex-direction: column; justify-content: center;">
 
 ###  Welcome to my GitHub profile! 🌟
 
@@ -9,7 +9,7 @@
 </div>
 
 
-<div style="text-align: center;">
+<div style="text-align: center; display: flex; justify-content: center;">
     <a href="https://e-bag.vercel.app/">
         <img alt="project" src="https://img.shields.io/badge/e-bag%20-%2320232a.svg?&style=for-the-badge&logo=e-bag&logoColor=white"/>
 </a>
@@ -41,7 +41,7 @@
 
 
 
-<div style="text-align: center;">
+<div style="text-align: center; display: flex; flex-direction: column; justify-content: center;">
 
   ###      Here are some ideas to get you started:
 
@@ -74,6 +74,6 @@
 
 </p>
 <hr/>
-<div style="text-align: center;">
+<div style="text-align: center; display: flex; justify-content: center;">
     <b>Thank you for visiting my profile! 😊👋</b>
 </div>
