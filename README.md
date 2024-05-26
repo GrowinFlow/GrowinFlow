@@ -13,7 +13,7 @@
     <a href="https://e-bag.vercel.app/">
         <img alt="project" src="https://img.shields.io/badge/e-bag%20-%2320232a.svg?&style=for-the-badge&logo=e-bag&logoColor=white"/>
 </a>
-<a href="https://cashzap.netlify.app/" style="margin-left: 40px;">
+<a href="https://cashzap.netlify.app/" style="margin-left: 14px;">
         <img alt="project" src="https://img.shields.io/badge/Cash-Zap%20-%2320232a.svg?&style=for-the-badge&logo=Cash-Zap&logoColor=white"/>
     </a>
 
