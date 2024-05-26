@@ -9,11 +9,11 @@
 </div>
 
 
-<div style="text-align: center; display: flex; justify-content: center;">
-    <a href="https://e-bag.vercel.app/">
+<div style="text-align: center; display: flex; justify-content: center; gap: 20px;" >
+    <a href="https://e-bag.vercel.app/" target="_blank">
         <img alt="project" src="https://img.shields.io/badge/e-bag%20-%2320232a.svg?&style=for-the-badge&logo=e-bag&logoColor=white"/>
 </a>
-<a href="https://cashzap.netlify.app/" style="margin-left: 14px;">
+<a href="https://cashzap.netlify.app/" target="_blank">
         <img alt="project" src="https://img.shields.io/badge/Cash-Zap%20-%2320232a.svg?&style=for-the-badge&logo=Cash-Zap&logoColor=white"/>
     </a>
 
