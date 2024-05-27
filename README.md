@@ -18,7 +18,7 @@
     </a>
 
 </div>
-<img src="https://i.ibb.co/CQkjX8D/divider.gif" alt="divider" border="0" height="40" width="100%">
+<img src="https://i.ibb.co/CQkjX8D/divider.gif" alt="divider" border="0" height="60" width="100%">
 <div style="display: flex; flex-wrap: wrap; gap: 8px;" align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -33,7 +33,8 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
-<img src="https://i.ibb.co/CQkjX8D/divider.gif" alt="divider" border="0" height="40" width="100%">
+<br>
+<img src="https://i.ibb.co/CQkjX8D/divider.gif" alt="divider" border="0" height="60" width="100%">
  
 
 
