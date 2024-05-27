@@ -5,7 +5,7 @@
 
     https://github.com/GrowinFlow
 
-##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> <strong style="font-size: 40px;">My Skills & Projects:</strong>
+##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> <strong style="font-size: 45px;">My Skills & Projects:</strong>
 </div>
 
 
@@ -19,7 +19,7 @@
 
 </div>
   <hr/>
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px;" align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
