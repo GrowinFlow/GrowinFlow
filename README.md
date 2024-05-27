@@ -70,7 +70,7 @@
  <img height="240em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GrowinFlow&theme=algolia"/>
     </a>
  <br/> 
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowinFlow&layout=compact&theme=algolia" target="_blank">
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowinFlow&layout=compact&theme=algolia" >
  <img height="285em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowinFlow&layout=compact&theme=algolia"/> 
  </a>
 
