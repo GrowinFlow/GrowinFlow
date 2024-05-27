@@ -5,7 +5,8 @@
 
     https://github.com/GrowinFlow
 
-##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> <strong style="font-size: 45px;">My Skills & Projects:</strong>
+##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
+### <strong style="font-size: 45px;">My Skills & Projects:</strong>
 </div>
 
 
