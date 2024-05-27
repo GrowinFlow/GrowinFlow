@@ -10,7 +10,7 @@
 
 
 <div style="text-align: center; display: flex; justify-content: center; gap: 20px;"  align="center">
-    <a href="https://e-bag.vercel.app/" target="_blank">
+    <a href="https://e-bag.vercel.app/" target="/">
         <img alt="project" src="https://img.shields.io/badge/e-bag%20-%2320232a.svg?&style=for-the-badge&logo=e-bag&logoColor=white"/>
 </a>
 <a href="https://cashzap.netlify.app/" target="_blank">
