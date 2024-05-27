@@ -48,8 +48,9 @@
     
 **[GrowinFlow](https://github.com/GrowinFlow)** ✨ 
 
-    - 🌐  I’m currently working on Dycoders
-    - 📚  I’m currently learning React
+
+    - 🌐 I’m currently working on Dycoders
+    - 📚 I’m currently learning React
     - 🤝 Open to collaborating on Web Projects
     - 💡 Seeking inspiration for new ideas
     - 💬 Feel free to discuss anything with me
