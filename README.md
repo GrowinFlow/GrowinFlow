@@ -1,11 +1,11 @@
 
 <div style="text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;" align="center">
 
-###  Welcome  to my GitHub profile! <img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif" alt="hand shake" width="25">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=e11d48&multiline=true&random=true&width=435&lines=Welcome+to+my+GitHub+profile!+✨" alt="welcome">
 
     https://github.com/GrowinFlow
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">  My Skills & Projects:
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&weight=700&pause=1000&color=fff&multiline=true&random=true&width=435&lines=My+Skills+and+Projects:" alt="Skills"> 
 </div>
 
 
@@ -41,7 +41,7 @@
 
 <div style="text-align: center; display: flex; flex-direction: column; justify-content: center;"  align="center">
 
-  ###      Here are some ideas to get you started:
+  ###  Consider these possibilities:
 
     
 **[GrowinFlow](https://github.com/GrowinFlow)** ✨ 
@@ -79,5 +79,6 @@
 </p>
 <img src="https://i.ibb.co/CQkjX8D/divider.gif" alt="divider" border="0" height="40" width="100%">
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;"  align="center">
-    <b>Thank you for visiting my profile! 😊 <img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif" alt="hand shake" width="20"></b>
+  
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=e11d48&multiline=true&random=true&width=435&lines=Thank+you+for+visiting+my+profile!+😊" alt="Thanks">
 </div>
