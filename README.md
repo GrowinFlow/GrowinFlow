@@ -1,11 +1,11 @@
 
 <div style="text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;" align="center">
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=e11d48&multiline=true&random=true&width=435&lines=Welcome+to+my+GitHub+profile!+✨" alt="welcome">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=cbd5e1&multiline=true&random=true&width=435&lines=Welcome+to+my+GitHub+profile!+✨" alt="welcome">
 
     https://github.com/GrowinFlow
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&weight=700&pause=1000&color=fff&multiline=true&random=true&width=435&lines=My+Skills+and+Projects:" alt="Skills"> 
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&weight=700&pause=1000&color=e11d48&multiline=true&random=true&width=435&lines=My+Skills+and+Projects:" alt="Skills"> 
 </div>
 
 
@@ -44,13 +44,17 @@
   ###  Consider these possibilities:
 
     
-**[GrowinFlow](https://github.com/GrowinFlow)** ✨ 
+ <a href="https://github.com/GrowinFlow" style="color: #e11d48; font-weight: bold;">GrowinFlow</a> ✨ 
 
 
     - 🌐 I’m currently working on Dycoders
+    <br/>
     - 📚 I’m currently learning React
+      <br/>
     - 🤝 Open to collaborating on Web Projects
+      <br/>
     - 💡 Seeking inspiration for new ideas
+      <br/>
     - 💬 Feel free to discuss anything with me
 </div>
 
@@ -61,17 +65,19 @@
 
 
 <p align="center">
-<a href="https://github-readme-stats-eight-theta.vercel.app/api?username=GrowinFlow&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" target="_blank">
-  <img height="240em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GrowinFlow&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="#">
+    <img height="240em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GrowinFlow&show_icons=true&title_color=e11d48&icon_color=e11d48&text_color=ffffff&bg_color=161b22&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
-    <br>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=GrowinFlow&theme=algolia" target="_blank">
- <img height="240em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GrowinFlow&theme=algolia"/>
-    </a>
- <br/> 
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowinFlow&layout=compact&theme=algolia" target="_blank">
- <img height="285em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowinFlow&layout=compact&theme=algolia"/> 
- </a>
+  <br>
+  <a href="#">
+    <img height="240em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GrowinFlow&date_format=j%20M%5B%20Y%5D&background=161b22&border=EBDBDF00&stroke=e11d48&ring=e11d48&fire=e11d48&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e11d48&sideLabels=e11d48&dates=ffffff&excludeDaysLabel=e11d48&hide_border=true"/>
+  </a>
+  <br/> 
+  <a href="#">
+    <img height="285em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowinFlow&layout=compact&title_color=e11d48&text_color=ffffff&bg_color=161b22&hide_border=true"/>
+  </a>
+  
+
 
 
 
@@ -80,5 +86,5 @@
 <img src="https://i.ibb.co/CQkjX8D/divider.gif" alt="divider" border="0" height="40" width="100%">
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;"  align="center">
   
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=e11d48&multiline=true&random=true&width=435&lines=Thank+you+for+visiting+my+profile!+😊" alt="Thanks">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=e11d48&multiline=true&random=true&width=435&lines=Thank+you+for+visiting+my+profile!+😊+." alt="Thanks">
 </div>
