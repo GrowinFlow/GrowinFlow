@@ -64,17 +64,17 @@
  
 
 
-<p align="center">
+<div align="center">
   <a href="#">
-    <img height="240em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GrowinFlow&show_icons=true&title_color=e11d48&icon_color=e11d48&text_color=ffffff&bg_color=161b22&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GrowinFlow&show_icons=true&title_color=e11d48&icon_color=e11d48&text_color=ffffff&bg_color=161b22&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   <br>
   <a href="#">
-    <img height="240em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GrowinFlow&date_format=j%20M%5B%20Y%5D&background=161b22&border=EBDBDF00&stroke=e11d48&ring=e11d48&fire=e11d48&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e11d48&sideLabels=e11d48&dates=ffffff&excludeDaysLabel=e11d48&hide_border=true"/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GrowinFlow&date_format=j%20M%5B%20Y%5D&background=161b22&border=EBDBDF00&stroke=e11d48&ring=e11d48&fire=e11d48&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e11d48&sideLabels=e11d48&dates=ffffff&excludeDaysLabel=e11d48&hide_border=true"/>
   </a>
   <br/> 
   <a href="#">
-    <img height="285em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowinFlow&layout=compact&title_color=e11d48&text_color=ffffff&bg_color=161b22&hide_border=true"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowinFlow&layout=compact&title_color=e11d48&text_color=ffffff&bg_color=161b22&hide_border=true"/>
   </a>
   
 
@@ -82,7 +82,7 @@
 
 
 
-</p>
+</div>
 <img src="https://i.ibb.co/CQkjX8D/divider.gif" alt="divider" border="0" height="40" width="100%">
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;"  align="center">
   
