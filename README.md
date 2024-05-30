@@ -41,7 +41,7 @@
 
 <div style="text-align: center; display: flex; flex-direction: column; justify-content: center;"  align="center">
 
-  ###  Consider these possibilities:
+  ### <b style="color: #e11d48;">Consider these possibilities:</b>  
 
     
  <a href="https://github.com/GrowinFlow" style="color: #e11d48; font-weight: bold;">GrowinFlow</a> ✨ 
