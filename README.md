@@ -1,7 +1,7 @@
 
 <div style="text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;" align="center">
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=cbd5e1&multiline=true&random=true&width=435&lines=Welcome+to+my+GitHub+profile!+✨" alt="welcome">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=e11d48&multiline=true&random=true&width=435&lines=Welcome+to+my+GitHub+profile!+✨" alt="welcome">
 
     https://github.com/GrowinFlow
 
@@ -16,10 +16,13 @@
 <a href="https://cashzap.netlify.app/" target="_blank">
         <img alt="project" src="https://img.shields.io/badge/Cash-Zap%20-%2320232a.svg?&style=for-the-badge&logo=Cash-Zap&logoColor=white"/>
     </a>
+<a href="https://github-scroller.vercel.app/" target="_blank">
+        <img alt="project" src="https://img.shields.io/badge/Github-Scroller%20-%2320232a.svg?&style=for-the-badge&logo=Github-Scroller&logoColor=white"/>
+    </a>
 
 </div>
 <img src="https://i.ibb.co/CQkjX8D/divider.gif" alt="divider" border="0" height="60" width="100%">
-<div style="display: flex; flex-wrap: wrap; gap: 8px;" align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; align-items: center;" align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -66,15 +69,15 @@
 
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GrowinFlow&show_icons=true&title_color=e11d48&icon_color=e11d48&text_color=ffffff&bg_color=161b22&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GrowinFlow&show_icons=true&title_color=e11d48&icon_color=e11d48&text_color=222222&bg_color=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   <br>
   <a href="#">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GrowinFlow&date_format=j%20M%5B%20Y%5D&background=161b22&border=EBDBDF00&stroke=e11d48&ring=e11d48&fire=e11d48&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e11d48&sideLabels=e11d48&dates=ffffff&excludeDaysLabel=e11d48&hide_border=true"/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GrowinFlow&date_format=j%20M%5B%20Y%5D&background=transparent&border=EBDBDF00&stroke=e11d48&ring=e11d48&fire=e11d48&currStreakNum=222222&sideNums=222222&currStreakLabel=e11d48&sideLabels=e11d48&dates=222222&excludeDaysLabel=e11d48&hide_border=true"/>
   </a>
   <br/> 
   <a href="#">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowinFlow&layout=compact&title_color=e11d48&text_color=ffffff&bg_color=161b22&hide_border=true"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowinFlow&layout=compact&title_color=e11d48&text_color=222222&bg_color=transparent&hide_border=true"/>
   </a>
   
 
