@@ -9,15 +9,15 @@
 </div>
 
 
-<div style="text-align: center; display: flex; justify-content: center; gap: 25px;"  align="center">
-    <a href="https://e-bag.vercel.app/" target="_blank">
+<div style="text-align: center; display: flex; justify-content: center; "  align="center">
+    <a href="https://e-bag.vercel.app/" target="_blank" style="margin-left: 12px;">
         <img alt="project" src="https://img.shields.io/badge/e-bag%20-%230f766e.svg?&style=for-the-badge&logo=eg&logoColor=white"/>
 </a>
-<a href="https://cashzap.netlify.app/" target="_blank">
+<a href="https://cashzap.netlify.app/" target="_blank" style="margin-left: 12px;">
         <img alt="project" src="https://img.shields.io/badge/Cash-Zap%20-%23f59e0b.svg?&style=for-the-badge&logo=Cash-Zap&logoColor=white"/>
     </a>
 
-  <a href="https://github-scroller.vercel.app/" target="_blank">
+  <a href="https://github-scroller.vercel.app/" target="_blank" style="margin-left: 12px;">
       <img alt="project" src="https://img.shields.io/badge/Github-Scroller%20-%239333ea.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
