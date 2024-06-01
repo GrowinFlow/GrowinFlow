@@ -1,7 +1,7 @@
 
 <div style="text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;" align="center">
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=e11d48&multiline=true&random=true&width=435&lines=Welcome+to+my+GitHub+profile!+✨" alt="welcome">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=f59e0b&multiline=true&random=true&width=435&lines=Welcome+to+my+GitHub+profile!+✨" alt="welcome">
 
     https://github.com/GrowinFlow
 
@@ -69,15 +69,15 @@
 
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GrowinFlow&show_icons=true&title_color=e11d48&icon_color=e11d48&text_color=222222&bg_color=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GrowinFlow&show_icons=true&title_color=e11d48&icon_color=e11d48&text_color=f59e0b&bg_color=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   <br>
   <a href="#">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GrowinFlow&date_format=j%20M%5B%20Y%5D&background=transparent&border=EBDBDF00&stroke=e11d48&ring=e11d48&fire=e11d48&currStreakNum=222222&sideNums=222222&currStreakLabel=e11d48&sideLabels=e11d48&dates=222222&excludeDaysLabel=e11d48&hide_border=true"/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GrowinFlow&date_format=j%20M%5B%20Y%5D&background=transparent&border=EBDBDF00&stroke=e11d48&ring=e11d48&fire=f59e0b&currStreakNum=f59e0b&sideNums=f59e0b&currStreakLabel=e11d48&sideLabels=e11d48&dates=f59e0b&excludeDaysLabel=e11d48&hide_border=true"/>
   </a>
   <br/> 
   <a href="#">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowinFlow&layout=compact&title_color=e11d48&text_color=222222&bg_color=transparent&hide_border=true"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowinFlow&layout=compact&title_color=e11d48&text_color=f59e0b&bg_color=transparent&hide_border=true"/>
   </a>
   
 
@@ -89,5 +89,5 @@
 <img src="https://i.ibb.co/CQkjX8D/divider.gif" alt="divider" border="0" height="40" width="100%">
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;"  align="center">
   
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=e11d48&multiline=true&random=true&width=435&lines=Thank+you+for+visiting+my+profile!+😊+." alt="Thanks">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=f59e0b&multiline=true&random=true&width=435&lines=Thank+you+for+visiting+my+profile!+😊+." alt="Thanks">
 </div>
