@@ -11,14 +11,17 @@
 
 <div style="text-align: center; display: flex; justify-content: center; gap: 20px;"  align="center">
     <a href="https://e-bag.vercel.app/" target="_blank">
-        <img alt="project" src="https://img.shields.io/badge/e-bag%20-%2320232a.svg?&style=for-the-badge&logo=e-bag&logoColor=white"/>
+        <img alt="project" src="https://img.shields.io/badge/e-bag%20-%230f766e.svg?&style=for-the-badge&logo=eg&logoColor=white"/>
 </a>
 <a href="https://cashzap.netlify.app/" target="_blank">
-        <img alt="project" src="https://img.shields.io/badge/Cash-Zap%20-%2320232a.svg?&style=for-the-badge&logo=Cash-Zap&logoColor=white"/>
+        <img alt="project" src="https://img.shields.io/badge/Cash-Zap%20-%23f59e0b.svg?&style=for-the-badge&logo=Cash-Zap&logoColor=white"/>
     </a>
-<a href="https://github-scroller.vercel.app/" target="_blank">
-        <img alt="project" src="https://img.shields.io/badge/Github-Scroller%20-%2320232a.svg?&style=for-the-badge&logo=Github-Scroller&logoColor=white"/>
-    </a>
+
+  <a href="https://github-scroller.vercel.app/" target="_blank">
+      <img alt="project" src="https://img.shields.io/badge/Github-Scroller%20-%239333ea.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  
 
 </div>
 <img src="https://i.ibb.co/CQkjX8D/divider.gif" alt="divider" border="0" height="60" width="100%">
@@ -89,5 +92,5 @@
 <img src="https://i.ibb.co/CQkjX8D/divider.gif" alt="divider" border="0" height="40" width="100%">
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;"  align="center">
   
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=f59e0b&multiline=true&random=true&width=435&lines=Thank+you+for+visiting+my+profile!+😊+." alt="Thanks">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=f59e0b&multiline=true&random=true&width=450&lines=Thank+you+for+visiting+my+profile!+😊+." alt="Thanks">
 </div>
